@@ -1,5 +1,9 @@
 # review-application-microservices
+<<<<<<< Updated upstream
 Rahul Changes`
+=======
+Hta do mere changes
+>>>>>>> Stashed changes
 This is review application project using microservices, Spring MVC, Eureka, Hystrix and redis.
 
 Microservices : User detail(Spring MVC) ---> Product service (Spring boot)
